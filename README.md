@@ -46,7 +46,7 @@ Downloads
 
 Download or Clone from above repository link or click the link below
 
-Download: [GitHub](https://github.com/NamelessMagician/RPG-Maker-MV-MZ-Cheat-Menu-Plugin/releases/tag/latest)
+Download: [GitHub](https://github.com/NamelessMagician/RPG-Maker-MV-MZ-Cheat-Menu-Plugin/releases/latest)
 
 I've tested this to work with Cursed Armor and 魔王イリスの逆襲[RJ176175] (both are NSFW)
 
