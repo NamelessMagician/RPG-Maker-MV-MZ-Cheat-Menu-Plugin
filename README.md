@@ -1,5 +1,14 @@
-RPG Maker MV Cheat Menu Plugin
+RPG Maker MV/MZ Cheat Menu Plugin
 ==============================
+
+This is an update to the original cheat menu plugin to support both MV and MZ with the same plugins-patcher executable.
+I may also add a plugin patch executable for MacOS and Linux in the future.
+At this time I have no plans to update or add anything to the cheat menu itself.
+
+-------------------------------
+
+Original Readme
+===============================
 
 I've created a plugin for RPG Maker MV that allows users to access a Cheat Menu in game. The controls are all input via the number keys \[0\]\-\[9\] (not the NUMPAD) (other keys may be used as well now) or the mouse.
 
