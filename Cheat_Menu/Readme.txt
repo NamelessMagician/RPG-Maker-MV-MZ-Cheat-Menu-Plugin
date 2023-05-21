@@ -13,7 +13,7 @@ Install
 
 2)	Copy and Paste this contents of this folder into folder with Game.exe
 
-3)	Patch your www/js/plugins.js
+3)	Patch your www/js/plugins.js or js/plugins.js
 	a)	Backup your www/js/plugins.js file
 	b)	Patch
 			Run MVPluginPatcher.exe
